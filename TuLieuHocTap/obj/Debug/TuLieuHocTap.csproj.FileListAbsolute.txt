@@ -1,0 +1,224 @@
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\ConnectionString.txt
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\cv110.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\cvaux110.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\cvextern.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\cxcore110.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\haarcascade-frontalface-default.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\haarcascade_eye.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\haarcascade_mcs_eyepair_big.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\highgui110.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\mouth.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\names.txt
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\nose.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_calib3d220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_contrib220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_core220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_features2d220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_ffmpeg220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_flann220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_gpu220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_highgui220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_imgproc220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_legacy220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_ml220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_objdetect220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\opencv_video220.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe.config
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\TuLieuHocTap.pdb
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\Emgu.CV.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\Emgu.CV.UI.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\Emgu.Util.dll
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\Emgu.CV.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\Emgu.CV.UI.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\bin\Debug\Emgu.Util.xml
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\obj\Debug\TuLieuHocTap.AddStudent.resources
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\obj\Debug\TuLieuHocTap.DetectAndAttendance.resources
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\obj\Debug\TuLieuHocTap.MAINGUI.resources
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\obj\Debug\TuLieuHocTap.Properties.Resources.resources
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.GenerateResource.Cache
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\obj\Debug\TuLieuHocTap.exe
+D:\SmsDongle\Facial-Recognition-System-to-Automatically-record-attendance-of-Coventry-University-Students-master\FRSystem_AsisRai\TuLieuHocTap\obj\Debug\TuLieuHocTap.pdb
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\ConnectionString.txt
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\cv110.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvaux110.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvextern.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\cxcore110.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade-frontalface-default.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_eye.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_mcs_eyepair_big.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\highgui110.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\mouth.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\names.txt
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\nose.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_calib3d220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_contrib220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_core220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_features2d220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ffmpeg220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_flann220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_gpu220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_highgui220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_imgproc220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_legacy220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ml220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_objdetect220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_video220.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe.config
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.pdb
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.dll
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.xml
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csprojResolveAssemblyReference.cache
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.AddStudent.resources
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.DetectAndAttendance.resources
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.MAINGUI.resources
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Properties.Resources.resources
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.GenerateResource.Cache
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.exe
+D:\SmsDongle\TuLieuHocTap\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.pdb
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\ConnectionString.txt
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cv110.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvaux110.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvextern.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cxcore110.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade-frontalface-default.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_eye.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_mcs_eyepair_big.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\highgui110.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\mouth.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\names.txt
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\nose.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_calib3d220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_contrib220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_core220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_features2d220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_flann220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_gpu220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_highgui220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_imgproc220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_legacy220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ml220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_objdetect220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_video220.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe.config
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.pdb
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.dll
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.xml
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.AssemblyReference.cache
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.AddStudent.resources
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.DetectAndAttendance.resources
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.MAINGUI.resources
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Properties.Resources.resources
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.GenerateResource.cache
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.CoreCompileInputs.cache
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHo.A6A35FA5.Up2Date
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.exe
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.pdb
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Quanly.resources
+C:\Users\hungv\Downloads\Compressed\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Baocao.resources
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\ConnectionString.txt
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cv110.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvaux110.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvextern.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cxcore110.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade-frontalface-default.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_eye.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_mcs_eyepair_big.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\highgui110.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\mouth.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\names.txt
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\nose.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_calib3d220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_contrib220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_core220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_features2d220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_flann220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_gpu220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_highgui220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_imgproc220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_legacy220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ml220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_objdetect220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_video220.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.dll
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.xml
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.AssemblyReference.cache
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.AddStudent.resources
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Baocao.resources
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.DetectAndAttendance.resources
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.MAINGUI.resources
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Properties.Resources.resources
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Quanly.resources
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.GenerateResource.cache
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.CoreCompileInputs.cache
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHo.A6A35FA5.Up2Date
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.exe
+C:\Users\hungv\Downloads\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.pdb
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\ConnectionString.txt
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cv110.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvaux110.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cvextern.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\cxcore110.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade-frontalface-default.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_eye.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_frontalface_alt_tree.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\haarcascade_mcs_eyepair_big.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\highgui110.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\mouth.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\names.txt
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\nose.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_calib3d220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_contrib220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_core220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_features2d220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ffmpeg220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_flann220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_gpu220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_highgui220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_imgproc220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_legacy220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_ml220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_objdetect220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\opencv_video220.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe.config
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.exe
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\TuLieuHocTap.pdb
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.dll
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.CV.UI.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\bin\Debug\Emgu.Util.xml
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.AssemblyReference.cache
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.exe.config
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.AddStudent.resources
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Baocao.resources
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.DetectAndAttendance.resources
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.MAINGUI.resources
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Properties.Resources.resources
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.Quanly.resources
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.GenerateResource.cache
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.csproj.CoreCompileInputs.cache
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHo.A6A35FA5.Up2Date
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.exe
+E:\Trí tuệ nhân tạo\TuLieuHocTap_2\TuLieuHocTap\TuLieuHocTap\obj\Debug\TuLieuHocTap.pdb

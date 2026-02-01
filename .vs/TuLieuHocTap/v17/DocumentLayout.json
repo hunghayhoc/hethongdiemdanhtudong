@@ -1,0 +1,791 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\detectandattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\detectandattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hungv\\AppData\\Local\\Temp\\.vsdbgsrc\\0c45d9a70f02325889bae472be1110238f2792225b2246d7dbe7f6dcf5b351eb\\HaarCascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\detectandattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\detectandattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\detectandattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\detectandattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\addstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\addstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hungv\\AppData\\Local\\Temp\\.vsdbgsrc\\8ef8ea1ddeddb300932a4c45faca7358e24821a5f2f3229c7f49c007bdf86355\\CvInvoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\connectionstring.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\connectionstring.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\Names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_video220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_video220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_ml220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_ml220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_highgui220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_highgui220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\highgui110.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\highgui110.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\cv110.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\cv110.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\resources\\student1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\resources\\student1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\resources\\face-recognition-7-722536.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\resources\\face-recognition-7-722536.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\mouth.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\mouth.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\cvextern.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\cvextern.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\cxcore110.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\cxcore110.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_contrib220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_contrib220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_core220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_core220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_ffmpeg220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_ffmpeg220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_imgproc220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_imgproc220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_legacy220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_legacy220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_objdetect220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_objdetect220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\opencv_calib3d220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\opencv_calib3d220.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\maingui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\maingui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\haarcascade_mcs_eyepair_big.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\haarcascade_mcs_eyepair_big.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\haarcascade_frontalface_alt_tree.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\haarcascade_frontalface_alt_tree.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\haarcascade_eye.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\haarcascade_eye.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\haarcascade-frontalface-default.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53D980A7-BE4F-477D-BA33-8E5224A31061}|TuLieuHocTap\\TuLieuHocTap.csproj|solutionrelative:tulieuhoctap\\haarcascade-frontalface-default.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TrainedFaces\\nose1.bmp||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\bin\\Debug\\TrainedFaces\\nose1.bmp||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TrainedFaces\\TrainedNames.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\bin\\Debug\\TrainedFaces\\TrainedNames.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\ConnectionString.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\bin\\Debug\\ConnectionString.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\tulieuhoctap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HaarCascade.cs",
+              "DocumentMoniker": "C:\\Users\\hungv\\AppData\\Local\\Temp\\.vsdbgsrc\\0c45d9a70f02325889bae472be1110238f2792225b2246d7dbe7f6dcf5b351eb\\HaarCascade.cs",
+              "ToolTip": "C:\\Users\\hungv\\AppData\\Local\\Temp\\.vsdbgsrc\\0c45d9a70f02325889bae472be1110238f2792225b2246d7dbe7f6dcf5b351eb\\HaarCascade.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:27:17.163Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetectAndAttendance.cs [Design]",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\DetectAndAttendance.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\DetectAndAttendance.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\DetectAndAttendance.cs [Design]",
+              "RelativeToolTip": "TuLieuHocTap\\DetectAndAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:52:15.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetectAndAttendance.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\DetectAndAttendance.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\DetectAndAttendance.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\DetectAndAttendance.cs",
+              "RelativeToolTip": "TuLieuHocTap\\DetectAndAttendance.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAEwCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:55:33.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quanly.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Quanly.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\Quanly.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Quanly.cs",
+              "RelativeToolTip": "TuLieuHocTap\\Quanly.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:54:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quanly.cs [Design]",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Quanly.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\Quanly.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Quanly.cs [Design]",
+              "RelativeToolTip": "TuLieuHocTap\\Quanly.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:53:23.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\AddStudent.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\AddStudent.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\AddStudent.cs",
+              "RelativeToolTip": "TuLieuHocTap\\AddStudent.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAArwIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:42:48.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\AddStudent.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\AddStudent.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\AddStudent.cs [Design]",
+              "RelativeToolTip": "TuLieuHocTap\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:55:20.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Program.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\Program.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Program.cs",
+              "RelativeToolTip": "TuLieuHocTap\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:40:29.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetectAndAttendance.Designer.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\DetectAndAttendance.Designer.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\DetectAndAttendance.Designer.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\DetectAndAttendance.Designer.cs",
+              "RelativeToolTip": "TuLieuHocTap\\DetectAndAttendance.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAEwI8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:52:17.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MAINGUI.cs [Design]",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\MAINGUI.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\MAINGUI.cs",
+              "ToolTip": "C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\MAINGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:52:47.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddStudent.Designer.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\AddStudent.Designer.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\AddStudent.Designer.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\AddStudent.Designer.cs",
+              "RelativeToolTip": "TuLieuHocTap\\AddStudent.Designer.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAYwIkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:52:34.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MAINGUI.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\MAINGUI.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\MAINGUI.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\MAINGUI.cs",
+              "RelativeToolTip": "TuLieuHocTap\\MAINGUI.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:52:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CvInvoke.cs",
+              "DocumentMoniker": "C:\\Users\\hungv\\AppData\\Local\\Temp\\.vsdbgsrc\\8ef8ea1ddeddb300932a4c45faca7358e24821a5f2f3229c7f49c007bdf86355\\CvInvoke.cs",
+              "ToolTip": "C:\\Users\\hungv\\AppData\\Local\\Temp\\.vsdbgsrc\\8ef8ea1ddeddb300932a4c45faca7358e24821a5f2f3229c7f49c007bdf86355\\CvInvoke.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAIwKoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:29:46.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "nose1.bmp",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TrainedFaces\\nose1.bmp",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\bin\\Debug\\TrainedFaces\\nose1.bmp",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TrainedFaces\\nose1.bmp",
+              "RelativeToolTip": "TuLieuHocTap\\bin\\Debug\\TrainedFaces\\nose1.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-21T13:23:43.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "names.txt",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Names\\names.txt",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\Names\\names.txt",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Names\\names.txt",
+              "RelativeToolTip": "TuLieuHocTap\\Names\\names.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-21T13:21:36.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "TuLieuHocTap\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:40:15.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TuLieuHocTap.vshost.exe.config",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.config",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.config",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.config",
+              "RelativeToolTip": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T13:20:58.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TuLieuHocTap.exe.config",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.exe.config",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.exe.config",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.exe.config",
+              "RelativeToolTip": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.exe.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-25T15:06:02.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TrainedNames.txt",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TrainedFaces\\TrainedNames.txt",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\bin\\Debug\\TrainedFaces\\TrainedNames.txt",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TrainedFaces\\TrainedNames.txt",
+              "RelativeToolTip": "TuLieuHocTap\\bin\\Debug\\TrainedFaces\\TrainedNames.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-21T13:23:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TuLieuHocTap.vshost.exe",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe",
+              "RelativeToolTip": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2025-05-16T14:53:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Form1.cs",
+              "ToolTip": "C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:53:28.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ConnectionString.txt",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\ConnectionString.txt",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\bin\\Debug\\ConnectionString.txt",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\ConnectionString.txt",
+              "RelativeToolTip": "TuLieuHocTap\\bin\\Debug\\ConnectionString.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-21T13:19:12.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TuLieuHocTap.vshost.exe.manifest",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.manifest",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.manifest",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.manifest",
+              "RelativeToolTip": "TuLieuHocTap\\bin\\Debug\\TuLieuHocTap.vshost.exe.manifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-05-16T14:53:37.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConnectionString.txt",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\ConnectionString.txt",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\ConnectionString.txt",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\ConnectionString.txt",
+              "RelativeToolTip": "TuLieuHocTap\\ConnectionString.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-16T14:52:06.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\App.config",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\App.config",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\App.config",
+              "RelativeToolTip": "TuLieuHocTap\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T13:21:41.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Form1.cs",
+              "ToolTip": "C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:46:03.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "opencv_video220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_video220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_video220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_video220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_video220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:43.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "opencv_ml220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_ml220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_ml220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_ml220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_ml220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:44.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "opencv_highgui220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_highgui220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_highgui220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_highgui220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_highgui220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "highgui110.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\highgui110.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\highgui110.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\highgui110.dll",
+              "RelativeToolTip": "TuLieuHocTap\\highgui110.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "cv110.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\cv110.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\cv110.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\cv110.dll",
+              "RelativeToolTip": "TuLieuHocTap\\cv110.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:40:20.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student1.png - PNG [64x64, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Resources\\Student1.png",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\Resources\\Student1.png",
+              "ToolTip": "C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Resources\\Student1.png - PNG [64x64, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-21T13:40:18.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "face-recognition-7-722536.png - PNG [64x64, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Resources\\face-recognition-7-722536.png",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\Resources\\face-recognition-7-722536.png",
+              "ToolTip": "C:\\Users\\hungv\\Downloads\\Compressed\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Resources\\face-recognition-7-722536.png - PNG [64x64, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-21T13:40:17.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "mouth.xml",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\mouth.xml",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\mouth.xml",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\mouth.xml",
+              "RelativeToolTip": "TuLieuHocTap\\mouth.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-16T14:52:57.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "cvextern.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\cvextern.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\cvextern.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\cvextern.dll",
+              "RelativeToolTip": "TuLieuHocTap\\cvextern.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:23.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "cxcore110.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\cxcore110.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\cxcore110.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\cxcore110.dll",
+              "RelativeToolTip": "TuLieuHocTap\\cxcore110.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:22.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\Properties\\Settings.settings",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\Properties\\Settings.settings",
+              "RelativeToolTip": "TuLieuHocTap\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-05-21T13:22:59.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "opencv_contrib220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_contrib220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_contrib220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_contrib220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_contrib220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:47.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "opencv_core220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_core220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_core220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_core220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_core220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:47.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "opencv_ffmpeg220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_ffmpeg220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_ffmpeg220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_ffmpeg220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_ffmpeg220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "opencv_imgproc220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_imgproc220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_imgproc220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_imgproc220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_imgproc220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:45.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "opencv_legacy220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_legacy220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_legacy220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_legacy220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_legacy220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:45.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "opencv_objdetect220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_objdetect220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_objdetect220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_objdetect220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_objdetect220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "opencv_calib3d220.dll",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_calib3d220.dll",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\opencv_calib3d220.dll",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\opencv_calib3d220.dll",
+              "RelativeToolTip": "TuLieuHocTap\\opencv_calib3d220.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-05-21T13:22:41.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "haarcascade_mcs_eyepair_big.xml",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade_mcs_eyepair_big.xml",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\haarcascade_mcs_eyepair_big.xml",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade_mcs_eyepair_big.xml",
+              "RelativeToolTip": "TuLieuHocTap\\haarcascade_mcs_eyepair_big.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-21T13:22:31.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MAINGUI.Designer.cs",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\MAINGUI.Designer.cs",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\MAINGUI.Designer.cs",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\MAINGUI.Designer.cs",
+              "RelativeToolTip": "TuLieuHocTap\\MAINGUI.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:52:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "haarcascade_frontalface_alt_tree.xml",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade_frontalface_alt_tree.xml",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\haarcascade_frontalface_alt_tree.xml",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade_frontalface_alt_tree.xml",
+              "RelativeToolTip": "TuLieuHocTap\\haarcascade_frontalface_alt_tree.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-21T13:22:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "haarcascade_eye.xml",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade_eye.xml",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\haarcascade_eye.xml",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade_eye.xml",
+              "RelativeToolTip": "TuLieuHocTap\\haarcascade_eye.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-21T13:22:29.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "haarcascade-frontalface-default.xml",
+              "DocumentMoniker": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade-frontalface-default.xml",
+              "RelativeDocumentMoniker": "TuLieuHocTap\\haarcascade-frontalface-default.xml",
+              "ToolTip": "E:\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\TuLieuHocTap_2\\TuLieuHocTap\\TuLieuHocTap\\haarcascade-frontalface-default.xml",
+              "RelativeToolTip": "TuLieuHocTap\\haarcascade-frontalface-default.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-21T13:22:29.051Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 823,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

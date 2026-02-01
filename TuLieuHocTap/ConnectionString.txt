@@ -1,0 +1,1 @@
+﻿Data Source=henry;Initial Catalog=TTNT;Integrated Security=True;Encrypt=False
