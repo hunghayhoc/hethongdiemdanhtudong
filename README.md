@@ -85,14 +85,6 @@ hethongdiemdanhtudong/
 └── README.md
 ```
 
----
-
-## 📸 Demo
-
-> *(Thêm ảnh chụp màn hình hoặc GIF demo tại đây)*
-
----
-
 ## 🧠 Thuật Toán
 
 Dự án sử dụng **2 bước chính**:
